@@ -2,3 +2,5 @@ STARK RESOLUSI
 - Konsisten
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
+- Membuat merch shop
+- Kolaborasi
