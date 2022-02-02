@@ -5,6 +5,7 @@ RENCANA KONTEN
   * ES6
   * Framework Javascript
    ^ Vue
+   ^ React
 - Interview
 - Fundamental Data Structure
 - Python
