@@ -4,5 +4,6 @@ RENCANA KONTEN
 - Javascript
   * ES6
   * Framework Javascript
+   ^ Angular
+   ^ React
 - Interview
-- Fundamental Data Structure
