@@ -1,0 +1,7 @@
+RENCANA KONTEN
+
+- Laravel
+- Javascript
+  * ES6
+  * Framework Javascript
+- Interview
